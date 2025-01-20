@@ -8,13 +8,6 @@
 - [x] Mute/unmute mic
 - [x] Switch between front and back camera
 
-## Requirements 
-1 : Account sid\n
-2 : Auth token\n
-3 : Secret key \n
-
-Note :- get above key from your console account and paste inside of string resource
-
 ## start video call Requirements
 1 : Room name\n
 2 : Access token\n

@@ -18,8 +18,6 @@ class MainActivity : AppCompatActivity() {
         const val IS_HOST = "IS_HOST"
         const val ENTER_ROOM_NAME = "ENTER_ROOM_NAME"
         const val ENTER_TOKEN = "ENTER_TOKEN"
-//        const val ACCESS_TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImN0eSI6InR3aWxpby1mcGE7dj0xIn0.eyJqdGkiOiJTSzg4MDgxMmIwMDAzNjIxYWUzYjU5ZWI3MDljMGFjMmY0LTE3MzcxNzMwMzQiLCJpc3MiOiJTSzg4MDgxMmIwMDAzNjIxYWUzYjU5ZWI3MDljMGFjMmY0Iiwic3ViIjoiQUM2NmZiOWU2ZWYwNWMzMTRlMjE0ZTI1YjFiZTc0ODdhOCIsImV4cCI6MTczNzE3NjYzNCwiZ3JhbnRzIjp7ImlkZW50aXR5IjoiSGlnbmVzaDIiLCJ2aWRlbyI6eyJyb29tIjoiVGVzdFJvb21Gb3JEZXYifX19.s91WdX_WlnRfHJBTNJsmPe1BK16GulG3itPMwtjDzjI"
-//        const val ROOM_NAME = "TestRoomForDev"
     }
 
     private lateinit var binding: ActivityMainBinding
