@@ -8,9 +8,16 @@
 - [x] Mute/unmute mic
 - [x] Switch between front and back camera
 
-## Requirements
-Room name
-Access token
+## Requirements 
+1 : Account sid\n
+2 : Auth token\n
+3 : Secret key \n
+
+Note :- get above key from your console account and paste inside of string resource
+
+## start video call Requirements
+1 : Room name\n
+2 : Access token\n
 
 
 ## How to generate token 
@@ -20,31 +27,25 @@ link :- <a href="https://console.twilio.com/us1/develop/video/manage/video-crede
 
 ### Start Video Call
  
-step 1:- enter room name
+step 1:- enter room name\n
 step 2:- enter token and press on create room
 
 
 ### Join Video Call
 
-step 1:- enter room name
+step 1:- enter room name\n
 step 2:- enter token and press on join room
 
 
-## See Demo 
+## See Demo
 
-<a target="_blank" rel="noopener noreferrer" href="ss/Screenshot_20250120_115352.png">
-<img src="ss/Screenshot_20250120_115352.png" alt="demo preview" width="270" style="max-width: 100%;">
-</a>
-
-<a target="_blank" rel="noopener noreferrer" href="ss/Screenshot_20250120_115437.png">
-<img src="ss/Screenshot_20250120_115437.png" alt="demo preview" width="270" style="max-width: 100%;">
-</a>
-
-<a target="_blank" rel="noopener noreferrer" href="ss/Screenshot_20250120_115508.png">
-<img src="ss/Screenshot_20250120_115508.png" alt="demo preview" width="270" style="max-width: 100%;">
-</a>
-
-[![Watch Demo](ss/Screenshot_20250120_115508.png)](ss/video1.mov)
-[![Watch Demo](ss/Screenshot_20250120_115352.png)](ss/video2.mov)
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="ss/video1.mov" target="_blank">
+    <img src="ss/Screenshot_20250120_115508.png" alt="Demo Video 1" style="width: 300px; height: 200px; object-fit: cover;">
+  </a>
+  <a href="ss/video2.mov" target="_blank">
+    <img src="ss/Screenshot_20250120_115352.png" alt="Demo Video 2" style="width: 300px; height: 200px; object-fit: cover;">
+  </a>
+</div>
 
 

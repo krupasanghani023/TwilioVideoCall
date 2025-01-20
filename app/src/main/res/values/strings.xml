@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">TwilioVideoCalling</string>
-    <string name="twilio_account_sid">AC5bf0bd63e0ca57e92b545be801f35898</string>
-    <string name="twilio_auth_token">b611de87db2e00deab99dc2a47bd941d</string>
-    <string name="twilio_secret_key">5jgKXTJ0mqcgehdXGa6SEoPULxhKS4gT</string>
+    <string name="twilio_account_sid">your-account-sid</string>
+    <string name="twilio_auth_token">your-auth-token</string>
+    <string name="twilio_secret_key">your-secret-key</string>
 </resources>
