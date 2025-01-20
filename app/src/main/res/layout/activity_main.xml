@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+   <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_centerInParent="true"
+       android:gravity="center_horizontal"
+       android:orientation="vertical">
+
+
+       <EditText
+           android:id="@+id/roomNameEditTextText"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:minWidth="@dimen/_120sdp"
+           android:inputType="text"
+           android:text="TestRoomForDev"
+           android:hint="Enter room name" />
+
+       <EditText
+           android:id="@+id/tokenEditTextText"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:minWidth="@dimen/_120sdp"
+           android:inputType="text"
+           android:hint="Enter token" />
+
+       <Button
+           android:id="@+id/createButton"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Create Room" />
+
+       <Button
+           android:id="@+id/joinButton"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="@dimen/_5sdp"
+           android:text="Join Room" />
+
+   </LinearLayout>
+
+</RelativeLayout>
