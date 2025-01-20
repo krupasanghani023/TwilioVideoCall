@@ -34,10 +34,10 @@ step 2:- enter token and press on join room
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="ss/video1.mov" target="_blank">
-    <img src="ss/Screenshot_20250120_115508.png" alt="Demo Video 1" style="width: 300px; height: 200px; object-fit: cover;">
+    <img src="ss/Screenshot_20250120_115508.png" alt="Demo Video 1" style="width: 200px; height: 400px; object-fit: cover;">
   </a>
   <a href="ss/video2.mov" target="_blank">
-    <img src="ss/Screenshot_20250120_115352.png" alt="Demo Video 2" style="width: 300px; height: 200px; object-fit: cover;">
+    <img src="ss/Screenshot_20250120_115352.png" alt="Demo Video 2" style="width: 200px; height: 400px; object-fit: cover;">
   </a>
 </div>
 
